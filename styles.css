@@ -1,0 +1,26 @@
+h2 {
+    color:  #37BC9B !important;
+    font-size: 3rem !important;
+}
+
+.btn {
+    background-color:   #37BC9B !important;
+    color: #FFF !important;
+}
+
+.wave-bg {
+    display: block;
+    height: 220px;
+    width: 100%;
+    min-width: 600px;
+    background-image: url("./images/wave-bg.svg");
+  }
+
+.div-bg {
+    background-color: #F4F6F8;
+}
+
+.containers {
+    display: flex;
+    justify-content: center;
+}
